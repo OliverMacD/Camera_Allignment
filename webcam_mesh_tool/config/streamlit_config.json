@@ -1,0 +1,23 @@
+{
+  "camera_R": {
+    "device_id": 1,
+    "x_offset": -200,
+    "y_offset": 0,
+    "rotation_deg": 0.0,
+    "opacity": 1.0
+  },
+  "camera_RR": {
+    "device_id": 3,
+    "x_offset": 0,
+    "y_offset": 0,
+    "rotation_deg": 0.0,
+    "opacity": 1.0
+  },
+  "camera_L": {
+    "device_id": 4,
+    "x_offset": 200,
+    "y_offset": 0,
+    "rotation_deg": 0.0,
+    "opacity": 1.0
+  }
+}
